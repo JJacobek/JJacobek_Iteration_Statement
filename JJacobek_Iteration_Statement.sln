@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JJacobek_Iteration_Statement", "JJacobek_Iteration_Statement\JJacobek_Iteration_Statement.csproj", "{F30653D4-D8E2-4519-8EC1-ABE7604E9D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30653D4-D8E2-4519-8EC1-ABE7604E9D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30653D4-D8E2-4519-8EC1-ABE7604E9D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30653D4-D8E2-4519-8EC1-ABE7604E9D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30653D4-D8E2-4519-8EC1-ABE7604E9D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0F4731-EC87-4641-B8C6-B0ECF0105A6F}
+	EndGlobalSection
+EndGlobal
